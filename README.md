@@ -34,6 +34,7 @@ A Contributor is someone who materially contributes to `oapi-codegen`, through p
 
 - Contributors may help provide support to others in the issue tracker
 - Contributors may create Pull Requests to resolve bugs or feature enhancements
+- Pull Requests created by Contributors must be reviewed by a Maintainer/Core Maintainer
 
 ### Maintainer
 
@@ -61,6 +62,7 @@ They are knowledgeable around large parts of the codebase, and work to balance u
 - Only Core Maintainers can create a new release of `oapi-codegen` or a library in the ecosystem
 - Core Maintainers will have `Owner` access on the GitHub organisation
 - Core Maintainers will retain `Owner` access in perpetuity
+- Pull Requests created by Core Maintainers should be reviewed by another Maintainer/Core Maintainer, but this isn't required
 
 ## Sponsorship
 
