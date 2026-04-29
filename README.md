@@ -63,6 +63,7 @@ They are knowledgeable around large parts of the codebase, and work to balance u
 - Core Maintainers will have `Owner` access on the GitHub organisation
 - Core Maintainers will retain `Owner` access in perpetuity
 - Pull Requests created by Core Maintainers should be reviewed by another Maintainer/Core Maintainer, but this isn't required
+  - In the case that an automated code review service (such as one using Large Language Models (LLMs)) is employed for code review in the absence of a Core Maintainer's second review, this will be sufficient
 
 ## Sponsorship
 
